@@ -58,8 +58,6 @@
 
 ---
 
-## 🚀 Minha Filosofia
-
 > _"Não busco parecer bom, busco me tornar melhor."_
 
 ---
