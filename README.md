@@ -1,7 +1,5 @@
 # Olá 👋, me chamo Murillo Fioque
 
-**<h3 align="center">"Construindo soluções enquanto evoluo como desenvolvedor."</h3>**
-
 🚀 **Desenvolvedor Front-end Júnior**  
 
 **Minhas stacks são: JavaScript, Python & React.**
@@ -20,6 +18,7 @@
   <a href="https://instagram.com/mfioquev">
     <img src="https://img.shields.io/badge/Instagram-@mfioquev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a>
 </p>
 
 ---
@@ -54,7 +53,7 @@
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fioque&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fioque&layout=compact&theme=tokyonight" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fioque&layout=compact&theme=tokyonight" />
 </p>
 
 ---
